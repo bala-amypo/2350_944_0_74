@@ -7,7 +7,7 @@ import com.example.demo.entity.Student;
 
 public interface StudentService {
 
-    Student insertStudent(Student st);
+    Student postdata(Student st);
 
     List<Student> getAllStudents();
 
