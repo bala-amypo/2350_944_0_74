@@ -1,7 +1,4 @@
 package com.example.demo.entity;
-
-
-
 public class Studententity {
    
     private String name;
